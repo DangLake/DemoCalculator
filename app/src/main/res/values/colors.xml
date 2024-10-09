@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="src_bg">#BFBFBF</color>
+    <color name="src_tx">#000000</color>
+    <color name="mem_bg">#F4B084</color>
+    <color name="mem_tx">#000000</color>
+    <color name="ope_bg">#92D050</color>
+    <color name="ope_tx">#000000</color>
+    <color name="num_bg">#0000FF</color>
+    <color name="num_tx">#FFFF00</color>
+    <color name="result_bg">#00FFFF</color>
+    <color name="result_tx">#FF0000</color>
+</resources>
